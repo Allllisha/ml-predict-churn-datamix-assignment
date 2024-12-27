@@ -1,8 +1,2 @@
-data/
 data/input/*.csv
 data/output/*.csv
-*.csv
-*.gz
-*.pkl
-*~
-*.swp
