@@ -1,0 +1,22 @@
+{
+  "features": [
+  "Age", 
+  "Tenure", 
+  "Balance", 
+  "NumOfProducts", 
+  "HasCrCard", 
+  "IsActiveMember", 
+  "EstimatedSalary", 
+  "Exited", 
+  "Geography_Germany", 
+  "Geography_Spain", 
+  "Gender_Male", 
+  "expenditure_total", 
+  "CreditScore_Category_Fair", 
+  "CreditScore_Category_Good", 
+  "CreditScore_Category_Excellent"]
+}
+
+
+
+
